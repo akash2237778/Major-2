@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202002348068",
+    "project_id": "food-restaurant-a5edc",
+    "storage_bucket": "food-restaurant-a5edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202002348068:android:d0c518ade635033cb5c0b1",
+        "android_client_info": {
+          "package_name": "com.example.food_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202002348068-mjmcrtu1vl80s19t5je7t0d3gl3ct15j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt19TEvws4rU4loaVrkq3awUOPPt8QWQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202002348068-mjmcrtu1vl80s19t5je7t0d3gl3ct15j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
